@@ -31,7 +31,6 @@ run_app.bat
 
 ### Method 3: Step by step
 ```bash
-cd "c:\Users\Admin\Documents\AI-Python\GenAI\ChatWithImage"
 pip install -r requirements.txt
 streamlit run main.py
 ```
